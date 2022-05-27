@@ -1,0 +1,1 @@
+window.location.href = `${window.location.href.replace(/^http(s?)/i, "youtube")}`;
